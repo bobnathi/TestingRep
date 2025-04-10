@@ -18,6 +18,7 @@ public class Experiment {
        System.out.print("Ekse meneer");
        System.out.print("Ekse gazi");
        System.out.print("Ekse broer");
+       System.out.print("hhhhy");
     }
     
 }
